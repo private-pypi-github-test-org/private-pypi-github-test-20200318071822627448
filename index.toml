@@ -1,0 +1,13 @@
+mtime = 1584515907
+[[pkgs]]
+type = "github"
+distrib = "rpcfkeryx9qr7vfutrbpub"
+package = "rPCfKeRYx9qr7VFUTrbpUB-1.0-py3-none-any"
+ext = "whl"
+sha256 = "f5c3002f257eec2a0b47653040176a0be73b9e4f877a709fa3c6f680fa35de8a"
+url = "https://api.github.com/repos/private-pypi-github-test-org/private-pypi-github-test-20200318071822627448/releases/assets/18789067"
+
+[pkgs.meta]
+name = "rPCfKeRYx9qr7VFUTrbpUB"
+distrib = "rpcfkeryx9qr7vfutrbpub"
+sha256 = "f5c3002f257eec2a0b47653040176a0be73b9e4f877a709fa3c6f680fa35de8a"
